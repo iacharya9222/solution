@@ -1,0 +1,19 @@
+body{
+    background-color: darkgray;
+}
+section{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+input{
+    margin-bottom: 10px;
+    text-align: center;
+}
+button{
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}

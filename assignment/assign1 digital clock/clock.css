@@ -1,0 +1,14 @@
+body{
+    background-color: darkgray;
+}
+section{
+    width: 500px;
+    margin: auto;
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 100px;
+}
+button{
+    position: relative;
+    margin: auto;
+}
